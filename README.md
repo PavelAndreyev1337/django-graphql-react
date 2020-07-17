@@ -1,4 +1,7 @@
 # Django + PostreSQL + GraphQL + ReactJS 🤔
+![GitHub last commit](https://img.shields.io/github/last-commit/PavelAndreyev1337/django-todo-react?style=flat-square) 
+![GitHub](https://img.shields.io/github/license/PavelAndreyev1337/django-todo-react?color=green&style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/PavelAndreyev1337/django-todo-react?style=flat-square)
 ## How to run
 * `python -m venv venv`
 * `source venv/bin/activate`
